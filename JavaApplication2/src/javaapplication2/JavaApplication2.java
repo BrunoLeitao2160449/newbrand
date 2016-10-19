@@ -18,6 +18,7 @@ public class JavaApplication2 {
         // TODO code application logic here
         System.out.println("Ola mundo!");
         System.out.println("Tenho " + 18 + " anos! ehehe" );
+        System.out.println("Sou o Miguel e tenho " + 23 + " anos! ehehe" );
         System.out.println("3 + 5 = " + (3+5));
         float y, h, operacao;
         y=6;
