@@ -18,6 +18,13 @@ public class JavaApplication_newbrand {
         // TODO code application logic here
         
         System.out.println("Ola mundo!");
+        System.out.println("Tenho " + 18 + " anos! ehehe" );
+        System.out.println("3 + 5 = " + (3+5));
+        float y, h, operacao;
+        y=6;
+        h=8;
+        operacao = y / h;
+        System.out.println(Math.round(y) + " / " + Math.round(h) + " = " + operacao);
     }
     
 }
